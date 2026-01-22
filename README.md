@@ -6,6 +6,35 @@ It features a **Dual-Mode Architecture**:
 
 ---
 
+## 📸 Interface Gallery
+
+<table style="width:100%">
+  <tr>
+    <th width="50%">1. Secure Admin Entry</th>
+    <th width="50%">2. Attendance Overview</th>
+  </tr>
+  <tr>
+    <td><img src="assets/login.png" alt="Login Screen"></td>
+    <td><img src="assets/overview.png" alt="Dashboard Overview"></td>
+  </tr>
+  <tr>
+    <th width="50%">3. Staff Hub (Management)</th>
+    <th width="50%">4. Advanced System Settings</th>
+  </tr>
+  <tr>
+    <td><img src="assets/staff.png" alt="Staff Management"></td>
+    <td><img src="assets/settings.png" alt="System Settings"></td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>5. Shop Floor Terminal (Staff View)</b><br>
+  <img src="assets/terminal.png" width="100%" alt="Staff Terminal">
+</p>
+
+---
+
+
 ## ✨ Key Features
 
 ### 🛡️ Admin & Management
